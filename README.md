@@ -8,3 +8,4 @@ Link to the Partial Dataset for experimentation [here](https://cdesigninstitute-
 ![alt text](images/DataAugmentation2.JPG)
 ![alt text](images/DataAugmentation4.JPG)
 
+This is a quick POC to show how in 10min and with only few images you can have a classifier capable to distinguish different solids with simple Transfer Learning and Data Augmentation in FastAI
